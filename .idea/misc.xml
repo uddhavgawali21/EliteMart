@@ -4,8 +4,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Amazon_Clone_SpringBoot_React_Tailwind/02_Backend/01_userdetails/pom.xml" />
-        <option value="$PROJECT_DIR$/Amazon_Clone_SpringBoot_React_Tailwind/02_Backend/02_productbackend/pom.xml" />
         <option value="$PROJECT_DIR$/backend/pom.xml" />
       </list>
     </option>
